@@ -47,7 +47,7 @@ Develop cmillonario.com site, using technologies as Liferay, Java, VueJS 2, JQue
 <br><br>
 
 
-<img src="https://www.ust.com/content/dam/ust/images/logos/ust-white-logo.svg"/>
+<img src="https://etimg.etb2bimg.com/thumb/msid-80342648,width-1200,resizemode-4/.jpg" width="50px"/>
 
 ### Head of UI/UX Developers, **UST**, (Remote)
 *November 2021 - September 2022*
@@ -98,7 +98,7 @@ protocols, and databases.
 
 <br><br>
 
-<img src="https://www.ust.com/content/dam/ust/images/logos/ust-white-logo.svg"/>
+<img src="https://etimg.etb2bimg.com/thumb/msid-80342648,width-1200,resizemode-4/.jpg" width="50px"/>
 
 ### Senior Web Developer , **UST Global**, León, Guanajuato
 *July 2019 - June 2021*
