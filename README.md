@@ -9,7 +9,7 @@
 <p><b>Phone number:</b> +52 477 288 15 98</p>
 <p><b>E-mail:</b> jfdo_gomez@outlook.com or jfdo.gomez.182@gmail.com</p>
 <p><b>Date of birth:</b> November 26, 1993</p>
-<p><b>LinkedIn profile:</b> [go](http://stackoverflow.com){:target="_blank"}. <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-g%C3%B3mez-flores-81a463194/" target="_blank">Click here</a></p>
+<p><b>LinkedIn profile:</b> <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-g%C3%B3mez-flores-81a463194/" target="_blank">Click here</a></p>
 <br>
 
 ## Profile
