@@ -6,9 +6,11 @@
 </div>
 
 ### Profile
-I am specialized software developer with more than 10 years of experience in the software development life cycle, creating application for several sectors in several companies. I am trained to analyze, develop, test and implement web platforms. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+<p align="justify">
+  I am specialized software developer with more than 10 years of experience in the software development life cycle, creating application for several sectors in several companies. I am trained to analyze, develop, test and implement web platforms. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-My professional goal is continue learning about technologies in order to achieve a lead position in the near future. 
+  My professional goal is continue learning about technologies in order to achieve a lead position in the near future. 
+</p>
 
 ### Employment History
 
