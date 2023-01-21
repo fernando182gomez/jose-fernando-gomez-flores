@@ -1,7 +1,7 @@
 # José Fernando Gómez Flores
 ##### Senior Software Developer
 
-<div style="width: 60%; height: 60%">
+<div style="border: 1px solid red">
   <img src="https://drive.google.com/uc?export=view&id=1HTnd0gMDuBwMmfWD3BvD1-wE5CB1jBbI" style="border-radius: 50%"/>
 </div>
 
