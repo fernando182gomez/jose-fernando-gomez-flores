@@ -57,6 +57,11 @@ website development
 <br><br>
 
 ## Education
+### Information Technology Engineering, Universidad Tecnológica de León at León, Guanajuato
+*September 2011 - April 2016*
+<br>
+**Recognition of academic merit for best average**
+
 <br><br>
 
 ## Projects
