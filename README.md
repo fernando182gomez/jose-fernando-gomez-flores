@@ -28,6 +28,27 @@
 <p align="justify">
 Implement new modules about analytics inDB functions inside Vantage Cloud Lake application using all the standards and best practices in order to maintain the performance and the usability for the end users.
 </p>
+<br>
+
+### Head of UI/UX Developers, UST, León, Guanajuato
+*November 2021 - September 2022*
+<br>
+<p align="justify">
+Lead and teach front end team of 5 developers to understand and apply the best 
+practices in the front end side also I was the responsible of mock up creation 
+and develop web applications using Angular 7+, implementing practices as lazy 
+loading. Back-end support using Java/Spring Boot and Oracle databases to create 
+and modify API services.
+</p>
+
+-  Helped to achieve a consistent look and visual theme across the website by 
+promoting uniform fonts, formatting, images, and layout
+-  Followed policies and procedures related to application methods and quality 
+standards at all times.
+- Remained knowledgeable in new standards, technologies, and trends in 
+website development
+<br>
+
 <br><br>
 
 ## Education
