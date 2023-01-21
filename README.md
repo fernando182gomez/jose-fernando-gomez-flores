@@ -33,6 +33,8 @@ Implement new modules about analytics inDB functions inside Vantage Cloud Lake a
 </p>
 <br>
 
+<img src="https://www.ust.com/content/dam/ust/images/logos/ust-white-logo.svg"/>
+
 ### Head of UI/UX Developers, UST, León, Guanajuato
 *November 2021 - September 2022*
 <br>
