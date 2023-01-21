@@ -1,7 +1,9 @@
 # José Fernando Gómez Flores
 ##### Senior Software Developer
 
-<img src="https://drive.google.com/uc?export=view&id=1HTnd0gMDuBwMmfWD3BvD1-wE5CB1jBbI" style="border-radius: 50%"/>
+<div style="width: 60%; height: 60%">
+  <img src="https://drive.google.com/uc?export=view&id=1HTnd0gMDuBwMmfWD3BvD1-wE5CB1jBbI" style="border-radius: 50%"/>
+</div>
 
 ### Profile
 I am specialized software developer with more than 10 years of experience in the software development life cycle, creating application for several sectors in several companies. I am trained to analyze, develop, test and implement web platforms. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
