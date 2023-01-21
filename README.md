@@ -22,6 +22,7 @@
 
 ## Employment History
 
+<img src="https://www.pngfind.com/pngs/m/104-1049836_teradata-logo-graphics-hd-png-download.png" width="200px"/>
 ### Senior UI Analytics Developer, Teradata (Remote)
 *September 2022 - Present*
 <br>
