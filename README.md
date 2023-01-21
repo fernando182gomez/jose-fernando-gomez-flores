@@ -2,7 +2,7 @@
 ### Senior Software Developer
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1HTnd0gMDuBwMmfWD3BvD1-wE5CB1jBbI" width="100px"/>
-<br><br>
+<br>
 
 ## Details
 <p><b>Location:</b> León, Guanajuato, México</p>
