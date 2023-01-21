@@ -2,7 +2,7 @@
 ##### Senior Software Developer
 
 <div style="border: 1px solid red">
-  <img src="https://drive.google.com/uc?export=view&id=1HTnd0gMDuBwMmfWD3BvD1-wE5CB1jBbI" style="border-radius: 50%"/>
+  <img src="https://drive.google.com/uc?export=view&id=1HTnd0gMDuBwMmfWD3BvD1-wE5CB1jBbI" borderRadius="50%"/>
 </div>
 
 ### Profile
