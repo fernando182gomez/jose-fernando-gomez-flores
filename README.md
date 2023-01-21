@@ -183,6 +183,36 @@ reduce the time necessary for this process for the end clients.
 <br><br>
 
 ## Courses
+
+<br>
+
+<img src="https://www.itpro.tv/static/linkedin-learning-logo-2452eda40e06d62f74e9a57d9debada5.jpg" width="100px"/>
+
+- <a href="https://lnkd.in/eKzqRV58">The Six Biases of Decision-Making</a>
+- <a href="https://lnkd.in/gEJ2Wx9i">Advanced Javascript: Good Practices</a>
+- <a href="https://lnkd.in/gvPbY3aM">Learning RxJS</a>
+- <a href="https://lnkd.in/g4w8_vfS">Bootstrap 5 Essential Training</a>
+
+<br>
+
+<img src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" width="100px"/>
+
+- <a href="https://www.udemy.com/certificate/UC-638c9176-237f-4779-8d3d-0fe4d090f1cf/">Angular Testing Masterclass</a>
+- <a href="https://www.udemy.com/certificate/UC-5a778d14-1d1c-4a0d-8387-79fd69f7fb9b/">Angular: From zero to expert</a>
+- <a href="https://www.udemy.com/certificate/UC-ad31e22c-c9bf-401a-b627-274bb1f3a37d/">Meditation for Beginners</a>
+
+<br>
+
+<img src="https://static.platzi.com/static/images/logos/platzi.3cae3cffd5ef.png" width="100px"/>
+
+- <a href="https://platzi.com/p/josfernandogmezflores/curso/1807-scope/diploma/detalle/">Closures & Scope in Javascript</a>
+- <a href="https://platzi.com/p/josfernandogmezflores/curso/2444-react/diploma/detalle/">Introduction to React.js</a>
+- <a href="https://platzi.com/p/josfernandogmezflores/curso/1210-design-thinking/diploma/detalle/">Design Thinking with Minds Garage</a>
+- <a href="https://platzi.com/p/josfernandogmezflores/curso/1631-java-basico/diploma/detalle/">Introduction to Java SE</a>
+- <a href="https://platzi.com/p/josfernandogmezflores/curso/1815-ecmascript-6/diploma/detalle/">ECMAScript 6+</a>
+- <a href="https://platzi.com/p/josfernandogmezflores/curso/1548-course/diploma/detalle/">Course about React</a>
+
+
 <br><br>
 
 ## Skills
