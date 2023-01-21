@@ -9,7 +9,7 @@
 <p><b>Phone number:</b> +52 477 288 15 98</p>
 <p><b>E-mail:</b> jfdo_gomez@outlook.com or jfdo.gomez.182@gmail.com</p>
 <p><b>Date of birth:</b> November 26, 1993</p>
-<p><b>LinkedIn profile:</b> <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-g%C3%B3mez-flores-81a463194/" target="_blank">Click here</a></p>
+<p><b>LinkedIn profile:</b> <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-g%C3%B3mez-flores-81a463194/">Click here</a></p>
 <br>
 
 ## Profile
@@ -25,13 +25,27 @@
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Teradata_logo_2018.svg/2560px-Teradata_logo_2018.svg.png" width="200px"/>
 
-### Senior UI Analytics Developer, **Teradata** (Remote)
+### Senior UI Analytics Developer, **Teradata**, (Remote)
 *September 2022 - Present*
 <br>
 <p align="justify">
 Implemented new modules about analytics inDB functions inside Vantage Cloud Lake application using all the standards and best practices in order to maintain the performance and the usability for the end users.
 </p>
+
 <br><br>
+
+<img src="https://quemari.com/themes/quemari/assets/images/logo.png" width="120px">
+
+### Senior Fullstack Developer, **Quemari**, (Remote, Freelance)
+*September 2020 - December 2022*
+<br>
+<p align="justify">
+Develop cmillonario.com site, using technologies as Liferay, Java, VueJS 2, JQuery and Bootstrap, create schedule tasks in data base side and also in .jar files.
+</p>
+<a href="https://www.cmillonario.com/">CMillonario site</a>
+
+<br><br>
+
 
 <img src="https://www.ust.com/content/dam/ust/images/logos/ust-white-logo.svg"/>
 
@@ -48,6 +62,7 @@ promoting uniform fonts, formatting, images, and layout
 standards at all times.
 - Remained knowledgeable in new standards, technologies, and trends in 
 website development
+
 <br><br>
 
 <img src="https://www.unosquare.com/wp-content/uploads/2023/01/unosquare_logo_r.svg" width="150px"/>
@@ -64,6 +79,7 @@ script
 -  Learned implementation of front end unit test with cypress and jasmine.
 -  Learned best practices in java script language.
 -  Utilized the latest software development tools, techniques, and approaches.
+
 <br><br>
 
 <img src="https://www.financialsolutions.mx/wp-content/uploads/2021/12/logo-color.svg" width="150px"/>
@@ -79,6 +95,7 @@ Analyzeed and implemented microservices architecture in newest projects using .N
 business specifications around Portfolio Management, Analytics and Risk.
 -  Offered experience working with client-server architectures, networking 
 protocols, and databases.
+
 <br><br>
 
 <img src="https://www.ust.com/content/dam/ust/images/logos/ust-white-logo.svg"/>
@@ -100,6 +117,22 @@ Angular
 usage.
 -  Upgraded Angular version to 8 and 9 which reduce footprint and increase 
 performance.
+
+<br><br>
+
+<img src="https://fjwp.s3.amazonaws.com/blog/wp-content/uploads/2014/10/14144316/know-if-you-would-be-a-good-freelancer-1-1024x512.jpg" width="120px"/>
+
+### Senior Software Developer, **NT Systems**, (Remote, Freelance)
+*January 2018 - December 2019*
+<br>
+<p aligh="justify">
+Develop tupronosticoonline.com page using Laravel and VueJS 2, implement services in backend side and next pages in front end side:
+</p>
+
+- <a href="https://www.tupronosticoonline.com/supercandados">Supercandados</a>
+- <a href="https://www.tupronosticoonline.com/loteria">Lotería</a>
+- <a href="https://www.tupronosticoonline.com/miprogol">Mi Progol</a>
+
 <br><br>
 
 <img src="https://www.lisyx.com/assets/img/lisyx_grey.svg" width="120px"/>
@@ -117,6 +150,7 @@ hires and overall performance in development time.
 - Supported the necessary changes to convert the application in to an actual 
 product that could be solved to multiple clients allowing to customize the app 
 as they see fit.
+
 <br><br>
 
 <img src="https://transportescastores.com.mx/wp-content/uploads/2020/06/Logo-Grupo-Castores-Oficial.png" width="150px"/>
@@ -133,10 +167,9 @@ desing in a 100%.
 -  Improve the customer service in the invoicing area, creating a new web 
 platform to allow clients document their own merchandise to send, which 
 reduce the time necessary for this process for the end clients.
-<br><br>
-
 
 <br><br>
+
 
 ## Education
 ### Information Technology Engineering, Universidad Tecnológica de León at León, Guanajuato
