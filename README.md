@@ -2,7 +2,7 @@
 ### Senior Software Developer
 <br>
 <img src="https://drive.google.com/uc?export=view&id=1HTnd0gMDuBwMmfWD3BvD1-wE5CB1jBbI" width="100px"/>
-<br>
+
 
 ## Details
 <p><b>Location:</b> León, Guanajuato, México</p>
@@ -10,7 +10,7 @@
 <p><b>E-mail:</b> jfdo_gomez@outlook.com or jfdo.gomez.182@gmail.com</p>
 <p><b>Date of birth:</b> November 26, 1993</p>
 <p><b>LinkedIn profile:</b> <a href="https://www.linkedin.com/in/jos%C3%A9-fernando-g%C3%B3mez-flores-81a463194/" target="_blank">Click here</a></p>
-<br>
+<br><br>
 
 ## Profile
 <p align="justify">
@@ -40,6 +40,28 @@ Implement new modules about analytics inDB functions inside Vantage Cloud Lake a
 <br><br>
 
 ## Skills
+- Self-motivation
+- Leadership
+- Problem solving
+- Creativity
+- Decision making
+- Teamwork
+- Communication skills
+- Adaptability
+- Ability to multitask
+- Ability to work in a team
+- Fast learner
+- Ability to work under pressure
+- Hard working
+- Highly motivated
 <br><br>
 
 ## Languages
+
+<p>Spanish</p>
+
+![](https://geps.dev/progress/100)
+
+<p>English</p>
+
+![](https://geps.dev/progress/85)
