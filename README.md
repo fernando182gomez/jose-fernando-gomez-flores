@@ -65,7 +65,7 @@ website development
 
 <br><br>
 
-<img src="https://www.unosquare.com/wp-content/uploads/2023/01/unosquare_logo_r.svg" width="150px"/>
+<img src="https://store.unosquare.com/assets/logo/unosquare-logo.png" width="150px"/>
 
 ### Senior Software Development Engineer, **Unosquare**, (Remote)
 *August 2021 - November 2021*
@@ -180,10 +180,9 @@ reduce the time necessary for this process for the end clients.
 <br><br>
 
 ## Projects
-
 - <a href="https://github.com/fernando182gomez/check-dna-node">Check DNA (Node.js)</a>
 
-<br><br>
+<br>
 
 ## Courses
 
