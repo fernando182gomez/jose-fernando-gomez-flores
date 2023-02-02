@@ -65,7 +65,7 @@ website development
 
 <br><br>
 
-<img src="https://store.unosquare.com/assets/logo/unosquare-logo.png" width="150px"/>
+<img src="https://store.unosquare.com/assets/logo/unosquare-logo.png" width="80px"/>
 
 ### Senior Software Development Engineer, **Unosquare**, (Remote)
 *August 2021 - November 2021*
